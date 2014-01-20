@@ -1,4 +1,4 @@
 GitFundamentals
 ===============
 
-A repo for git tutorial(es)
+A repo for git tutoriales
