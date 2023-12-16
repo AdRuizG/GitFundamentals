@@ -1,0 +1,3 @@
+2023-12-16 Checklist.txt
+
+Este es un ejercicio de Git...
